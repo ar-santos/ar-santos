@@ -13,4 +13,4 @@
 O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.
 
 ## Email para contato: 
-- [arthursantos4367@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+- arthursantos4367@gmail.com
