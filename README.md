@@ -17,6 +17,6 @@ O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.
   
 ## 
   <div>
-    <a href = "arthursantos4367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "https//:arthursantos4367@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
